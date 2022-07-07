@@ -4,7 +4,7 @@ database
 upload.sh
 dowload.sh
 .gitignore
-
+push_project.sh
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
